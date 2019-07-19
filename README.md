@@ -1,6 +1,8 @@
 streamable-go
 ======
 
+[![Build Status](https://travis-ci.org/fgoyer/streamable-go.svg?branch=master)](https://travis-ci.org/fgoyer/streamable-go)
+
 streamable-go is a Go wrapper for working with [Streamable's API](https://streamable.com/documentation)
 
 Use of this library is subject to Streamable's [Terms of Service](https://terms.streamable.com/)
