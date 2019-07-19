@@ -1,0 +1,9 @@
+language: go
+go:
+- 1.11
+- 1.12.x
+env:
+  global:
+  - STREAMABLE_EMAIL=streamable.go@gmail.com
+  matrix:
+    secure: mpKCEO4dxGJQJNjh+SMMGcYdB+oIzXtYZVyAWckgzkOgqeYvj0EHzyZTmr3zRz+C+a/NFiAnj1IxGl0H0VN5/kJG3ZcA9D+ja9trbsMM2i4LGhkX9GFwASKurHpioGTwmQa1yuQqtT/xFhSFDAD14kbs1WM/Cpq/H7WzzTU9611di78YE9yTyuxgw8Tkq90omakd6UxvvhpQMYzEXyDzhUgPtcy/kqC7wK919N5CnGygmrKzU31KXwXikeLQpDWuEmpRYkZheu0jT+bkjAvJGso76Sckdk7U/ohOXu9bYh0/l8WQXfoiW+og4Xeep1/G99RMwVmlvT1/IrO+84HG+qY8iEvFP5iub93Goo2Sri9Xx1LXg9SsQoURyzE3Cyq2NaUikr0iuoUnz+38XIRdpwDvsymIakQ+7k++X3Y2e8J8EKEk6Clz/zZ5tnNR3IDi4kPMB/hG6888o9KRWAhIyMefDeNIubfZdwUeNNRHdnxm9o4EHI9rVALckELaz0/kY/zOna/4bih9IvRAInT1kqosD/qKJyTbPn43Ffz2V4SEROAiizf32YxJk7ygmm/pbdXU4UaT6qzHxJtO8Ga0vV4fifwtIhlA9SzqE0B41IZht5fbkSN0eKQUQR0TVVngsQfBix0aC3S4C299jV6b5jqP2ezxu215p+J0zPvE3yI=
